@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Troka</string>
+    <string name="facebook_app_id">1411391699445172</string>
+               <string name="fb_login_protocol_scheme">fb1411391699445172</string>
+</resources>
